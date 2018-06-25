@@ -19,3 +19,5 @@ fork master
 
 
 squash the commits (but do not close the pull request)
+
+second commit for squash ()
