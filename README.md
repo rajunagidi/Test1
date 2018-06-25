@@ -16,3 +16,6 @@ to check node alignment with respect to branches
 
 source tree update
 fork master 
+
+
+squash the commits (but do not close the pull request)
